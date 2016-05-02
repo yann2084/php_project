@@ -1,0 +1,36 @@
+1|Chevrolet
+2|Citroën
+3|Datsun
+4|Dodge
+5|Fiat
+6|Ford
+7|Holden
+8|Honda
+9|Hyundai
+10|Kia
+11|Lancia
+12|Mazda
+13|Mitsubishi
+14|Nissan
+15|Opel
+16|Peugeot
+17|Renault
+18|Seat
+19|Škoda
+20|Subaru
+21|Toyota
+22|Vauxhall
+23|Volkswagen
+24|Alfa Romeo
+25|Aston Martin
+26|Audi
+27|BMW
+28|Bentley
+29|Benelli
+30|Ducati
+31|Harley-Davidson
+32|KTM
+33|Lamborghini
+34|ACM
+35|Trinity
+36|Windy

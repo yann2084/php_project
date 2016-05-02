@@ -1,0 +1,6 @@
+1|Voiture
+2|Moto
+3|Camion
+4|Bateau
+5|Caravane
+6|Remorque
